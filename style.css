@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Arial, sans-serif;
+    background-color: rgb(213, 94, 102);
+}
+canvas {
+    border: 1px solid black;
+    cursor: crosshair;
+}
+#toolbar {
+    margin-bottom: 10px;
+}
