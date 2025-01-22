@@ -3,7 +3,7 @@ body {
     flex-direction: column;
     align-items: center;
     font-family: Arial, sans-serif;
-    background-color: rgb(213, 94, 102);
+    background-color: rgb(184, 125, 129) !important;
 }
 canvas {
     border: 1px solid black;
@@ -12,7 +12,9 @@ canvas {
 #toolbar {
     margin-bottom: 10px;
     background-color: rgb(156, 66, 72);
-    width: 500px;
+    width: 900px;
+   
+    padding: 0px 10px;
     display: flex;
     align-items: center;
 
